@@ -1,6 +1,17 @@
 # app-informacion-auto
 Proyecto Java para ingresar y visualizar datos de vehículos de manera simple y eficiente sin uso de un IDE.
 
+## Ejecutar app:
+
+```cmd
+1. Instalar java.
+2. Ingresar al CMD.
+3. Validar que java esta instalado : java -version.
+4. Clonar el repositorio.
+5. Ubicarse en las carpeta en donde esta el archivo. Main.java y Auto.java
+6. Ejecutar: javac Main.java
+7. Ejecutar: java Main
+```
 ## Documentacion del Proceso:
 ```markdown
 # Elaboración del código fuente:
