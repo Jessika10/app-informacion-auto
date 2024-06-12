@@ -1,7 +1,7 @@
 # app-informacion-auto
 Proyecto Java para ingresar y visualizar datos de vehículos de manera simple y eficiente sin uso de un IDE.
 
-# Documentacion del Proceso:
+## Documentacion del Proceso:
 ```markdown
 # Elaboración del código fuente:
 
@@ -38,4 +38,32 @@ Proyecto Java para ingresar y visualizar datos de vehículos de manera simple y 
 
 - Una vez que se mostraron los datos del auto ingresados por el usuario, el programa terminó su ejecución.
 - La JVM liberó los recursos utilizados por el programa, como la memoria asignada a las instancias de objetos.
+```
+
+## Listado de requerimiento:
+```markdown
+# Requisitos Funcionales:
+
+1. Ingreso de Datos del Auto:
+   - El programa debe permitir al usuario ingresar información detallada sobre un auto, incluyendo marca, modelo, cilindrada, tipo de combustible y capacidad de pasajeros.
+
+2. Visualización de Datos del Auto:
+   - El programa debe mostrar los datos ingresados por el usuario de forma clara y legible en la consola.
+
+3. Interacción Intuitiva:
+   - El programa debe ser fácil de usar, con instrucciones claras para guiar al usuario a través del proceso de ingreso de datos.
+
+# Requisitos No Funcionales:
+
+1. Eficiencia:
+   - El programa debe ser eficiente en términos de consumo de recursos y tiempo de ejecución.
+
+2. Portabilidad:
+   - El programa debe ser compatible con diferentes sistemas operativos y entornos de ejecución de Java.
+
+3. Mantenibilidad:
+   - El código fuente debe estar bien estructurado y documentado para facilitar futuras actualizaciones y modificaciones.
+
+4. Usabilidad:
+   - La interfaz de usuario debe ser amigable y fácil de entender, incluso para usuarios sin experiencia técnica en Java.
 ```
